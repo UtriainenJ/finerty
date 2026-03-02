@@ -1,0 +1,326 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1084" height="392" viewBox="0 0 1084 392">
+<rect width="1084" height="392" rx="12" fill="#1a1b26"/>
+<defs>
+  <style>
+    .sym { font-family: "JetBrains Mono", "Fira Code", "Cascadia Code", monospace; }
+    .label { font-family: "Segoe UI", system-ui, sans-serif; }
+  </style>
+</defs>
+<text x="542" y="14" text-anchor="middle" font-size="11" fill="#565f89" class="label" font-weight="600" letter-spacing="2">FINERTY LAYOUT</text>
+<rect x="20.0" y="40.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="22.0" y="42.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="47.0" y="71.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">Esc</text>
+<rect x="107.0" y="40.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="109.0" y="42.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="134.0" y="71.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">F1</text>
+<rect x="165.0" y="40.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="167.0" y="42.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="192.0" y="71.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">F2</text>
+<rect x="223.0" y="40.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="225.0" y="42.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="250.0" y="71.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">F3</text>
+<rect x="281.0" y="40.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="283.0" y="42.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="308.0" y="71.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">F4</text>
+<rect x="368.0" y="40.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="370.0" y="42.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="395.0" y="71.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">F5</text>
+<rect x="426.0" y="40.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="428.0" y="42.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="453.0" y="71.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">F6</text>
+<rect x="484.0" y="40.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="486.0" y="42.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="511.0" y="71.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">F7</text>
+<rect x="542.0" y="40.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="544.0" y="42.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="569.0" y="71.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">F8</text>
+<rect x="629.0" y="40.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="631.0" y="42.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="656.0" y="71.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">F9</text>
+<rect x="687.0" y="40.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="689.0" y="42.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="714.0" y="71.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">F10</text>
+<rect x="745.0" y="40.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="747.0" y="42.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="772.0" y="71.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">F11</text>
+<rect x="803.0" y="40.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="805.0" y="42.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="830.0" y="71.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">F12</text>
+<rect x="890.0" y="40.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="892.0" y="42.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="917.0" y="71.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">PrtSc</text>
+<rect x="948.0" y="40.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="950.0" y="42.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="975.0" y="71.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">ScrLk</text>
+<rect x="1006.0" y="40.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="1008.0" y="42.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="1033.0" y="71.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">Pause</text>
+<rect x="20.0" y="98.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="22.0" y="100.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="26.0" y="146.0" font-size="13" fill="#c0caf5" class="sym">`</text>
+<text x="26.0" y="114.0" font-size="10" fill="#7aa2f7" class="sym">~</text>
+<text x="68.0" y="146.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">§</text>
+<text x="68.0" y="114.0" text-anchor="end" font-size="10" fill="#e0af68" class="sym">½</text>
+<rect x="78.0" y="98.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="80.0" y="100.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="84.0" y="146.0" font-size="13" fill="#c0caf5" class="sym">1</text>
+<text x="84.0" y="114.0" font-size="10" fill="#7aa2f7" class="sym">!</text>
+<rect x="136.0" y="98.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="138.0" y="100.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="142.0" y="146.0" font-size="13" fill="#c0caf5" class="sym">2</text>
+<text x="142.0" y="114.0" font-size="10" fill="#7aa2f7" class="sym">"</text>
+<text x="184.0" y="146.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">@</text>
+<rect x="194.0" y="98.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="196.0" y="100.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="200.0" y="146.0" font-size="13" fill="#c0caf5" class="sym">3</text>
+<text x="200.0" y="114.0" font-size="10" fill="#7aa2f7" class="sym">#</text>
+<text x="242.0" y="146.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">£</text>
+<rect x="252.0" y="98.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="254.0" y="100.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="258.0" y="146.0" font-size="13" fill="#c0caf5" class="sym">4</text>
+<text x="258.0" y="114.0" font-size="10" fill="#7aa2f7" class="sym">$</text>
+<text x="300.0" y="146.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">¤</text>
+<rect x="310.0" y="98.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="312.0" y="100.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="316.0" y="146.0" font-size="13" fill="#c0caf5" class="sym">5</text>
+<text x="316.0" y="114.0" font-size="10" fill="#7aa2f7" class="sym">%</text>
+<text x="358.0" y="146.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">€</text>
+<rect x="368.0" y="98.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="370.0" y="100.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="374.0" y="146.0" font-size="13" fill="#c0caf5" class="sym">6</text>
+<text x="374.0" y="114.0" font-size="10" fill="#7aa2f7" class="sym">^</text>
+<text x="416.0" y="146.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">^̈</text>
+<rect x="426.0" y="98.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="428.0" y="100.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="432.0" y="146.0" font-size="13" fill="#c0caf5" class="sym">7</text>
+<text x="432.0" y="114.0" font-size="10" fill="#7aa2f7" class="sym">&amp;</text>
+<text x="474.0" y="146.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">{</text>
+<rect x="484.0" y="98.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="486.0" y="100.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="490.0" y="146.0" font-size="13" fill="#c0caf5" class="sym">8</text>
+<text x="490.0" y="114.0" font-size="10" fill="#7aa2f7" class="sym">*</text>
+<text x="532.0" y="146.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">[</text>
+<rect x="542.0" y="98.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="544.0" y="100.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="548.0" y="146.0" font-size="13" fill="#c0caf5" class="sym">9</text>
+<text x="548.0" y="114.0" font-size="10" fill="#7aa2f7" class="sym">(</text>
+<text x="590.0" y="146.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">]</text>
+<rect x="600.0" y="98.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="602.0" y="100.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="606.0" y="146.0" font-size="13" fill="#c0caf5" class="sym">0</text>
+<text x="606.0" y="114.0" font-size="10" fill="#7aa2f7" class="sym">)</text>
+<text x="648.0" y="146.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">}</text>
+<rect x="658.0" y="98.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="660.0" y="100.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="664.0" y="146.0" font-size="13" fill="#c0caf5" class="sym">-</text>
+<text x="664.0" y="114.0" font-size="10" fill="#7aa2f7" class="sym">_</text>
+<text x="706.0" y="146.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">¨</text>
+<text x="706.0" y="114.0" text-anchor="end" font-size="10" fill="#e0af68" class="sym">^̈</text>
+<rect x="716.0" y="98.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="718.0" y="100.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="722.0" y="146.0" font-size="13" fill="#c0caf5" class="sym">=</text>
+<text x="722.0" y="114.0" font-size="10" fill="#7aa2f7" class="sym">+</text>
+<text x="764.0" y="146.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">~̈</text>
+<rect x="774.0" y="98.0" width="112.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="776.0" y="100.0" width="108.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="830.0" y="129.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">⌫</text>
+<rect x="890.0" y="98.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="892.0" y="100.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="917.0" y="129.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">Ins</text>
+<rect x="948.0" y="98.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="950.0" y="100.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="975.0" y="129.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">Home</text>
+<rect x="1006.0" y="98.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="1008.0" y="100.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="1033.0" y="129.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">PgUp</text>
+<rect x="20.0" y="156.0" width="83.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="22.0" y="158.0" width="79.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="61.5" y="187.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">⇥</text>
+<rect x="107.0" y="156.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="109.0" y="158.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="113.0" y="204.0" font-size="13" fill="#c0caf5" class="sym">q</text>
+<rect x="165.0" y="156.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="167.0" y="158.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="171.0" y="204.0" font-size="13" fill="#c0caf5" class="sym">w</text>
+<rect x="223.0" y="156.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="225.0" y="158.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="229.0" y="204.0" font-size="13" fill="#c0caf5" class="sym">e</text>
+<text x="271.0" y="204.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">€</text>
+<rect x="281.0" y="156.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="283.0" y="158.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="287.0" y="204.0" font-size="13" fill="#c0caf5" class="sym">r</text>
+<rect x="339.0" y="156.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="341.0" y="158.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="345.0" y="204.0" font-size="13" fill="#c0caf5" class="sym">t</text>
+<rect x="397.0" y="156.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="399.0" y="158.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="403.0" y="204.0" font-size="13" fill="#c0caf5" class="sym">y</text>
+<rect x="455.0" y="156.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="457.0" y="158.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="461.0" y="204.0" font-size="13" fill="#c0caf5" class="sym">u</text>
+<rect x="513.0" y="156.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="515.0" y="158.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="519.0" y="204.0" font-size="13" fill="#c0caf5" class="sym">i</text>
+<rect x="571.0" y="156.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="573.0" y="158.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="577.0" y="204.0" font-size="13" fill="#c0caf5" class="sym">o</text>
+<text x="619.0" y="204.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">{</text>
+<rect x="629.0" y="156.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="631.0" y="158.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="635.0" y="204.0" font-size="13" fill="#c0caf5" class="sym">p</text>
+<text x="677.0" y="204.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">}</text>
+<rect x="687.0" y="156.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="689.0" y="158.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="693.0" y="204.0" font-size="13" fill="#c0caf5" class="sym">å</text>
+<text x="735.0" y="204.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">[</text>
+<text x="735.0" y="172.0" text-anchor="end" font-size="10" fill="#e0af68" class="sym">{</text>
+<rect x="745.0" y="156.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="747.0" y="158.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="751.0" y="204.0" font-size="13" fill="#c0caf5" class="sym">´</text>
+<text x="751.0" y="172.0" font-size="10" fill="#7aa2f7" class="sym">`̈</text>
+<text x="793.0" y="204.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">]</text>
+<text x="793.0" y="172.0" text-anchor="end" font-size="10" fill="#e0af68" class="sym">}</text>
+<rect x="803.0" y="156.0" width="83.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="805.0" y="158.0" width="79.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="844.5" y="187.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">↵</text>
+<rect x="890.0" y="156.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="892.0" y="158.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="917.0" y="187.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">Del</text>
+<rect x="948.0" y="156.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="950.0" y="158.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="975.0" y="187.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">End</text>
+<rect x="1006.0" y="156.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="1008.0" y="158.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="1033.0" y="187.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">PgDn</text>
+<rect x="20.0" y="214.0" width="97.5" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="22.0" y="216.0" width="93.5" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="68.8" y="245.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">Caps</text>
+<rect x="121.5" y="214.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="123.5" y="216.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="127.5" y="262.0" font-size="13" fill="#c0caf5" class="sym">a</text>
+<rect x="179.5" y="214.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="181.5" y="216.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="185.5" y="262.0" font-size="13" fill="#c0caf5" class="sym">s</text>
+<rect x="237.5" y="214.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="239.5" y="216.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="243.5" y="262.0" font-size="13" fill="#c0caf5" class="sym">d</text>
+<rect x="295.5" y="214.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="297.5" y="216.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="301.5" y="262.0" font-size="13" fill="#c0caf5" class="sym">f</text>
+<rect x="353.5" y="214.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="355.5" y="216.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="359.5" y="262.0" font-size="13" fill="#c0caf5" class="sym">g</text>
+<rect x="411.5" y="214.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="413.5" y="216.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="417.5" y="262.0" font-size="13" fill="#c0caf5" class="sym">h</text>
+<rect x="469.5" y="214.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="471.5" y="216.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="475.5" y="262.0" font-size="13" fill="#c0caf5" class="sym">j</text>
+<rect x="527.5" y="214.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="529.5" y="216.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="533.5" y="262.0" font-size="13" fill="#c0caf5" class="sym">k</text>
+<rect x="585.5" y="214.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="587.5" y="216.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="591.5" y="262.0" font-size="13" fill="#c0caf5" class="sym">l</text>
+<rect x="643.5" y="214.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="645.5" y="216.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="649.5" y="262.0" font-size="13" fill="#c0caf5" class="sym">ö</text>
+<text x="691.5" y="262.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">:</text>
+<text x="691.5" y="230.0" text-anchor="end" font-size="10" fill="#e0af68" class="sym">;</text>
+<rect x="701.5" y="214.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="703.5" y="216.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="707.5" y="262.0" font-size="13" fill="#c0caf5" class="sym">ä</text>
+<text x="749.5" y="262.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">'</text>
+<text x="749.5" y="230.0" text-anchor="end" font-size="10" fill="#e0af68" class="sym">"</text>
+<rect x="759.5" y="214.0" width="126.5" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="761.5" y="216.0" width="122.5" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="765.5" y="262.0" font-size="13" fill="#c0caf5" class="sym">'</text>
+<text x="765.5" y="230.0" font-size="10" fill="#7aa2f7" class="sym">|</text>
+<text x="880.0" y="262.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">\</text>
+<rect x="20.0" y="272.0" width="126.5" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="22.0" y="274.0" width="122.5" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="83.2" y="303.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">Shift</text>
+<rect x="150.5" y="272.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="152.5" y="274.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="156.5" y="320.0" font-size="13" fill="#c0caf5" class="sym">z</text>
+<rect x="208.5" y="272.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="210.5" y="274.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="214.5" y="320.0" font-size="13" fill="#c0caf5" class="sym">x</text>
+<rect x="266.5" y="272.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="268.5" y="274.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="272.5" y="320.0" font-size="13" fill="#c0caf5" class="sym">c</text>
+<rect x="324.5" y="272.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="326.5" y="274.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="330.5" y="320.0" font-size="13" fill="#c0caf5" class="sym">v</text>
+<rect x="382.5" y="272.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="384.5" y="274.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="388.5" y="320.0" font-size="13" fill="#c0caf5" class="sym">b</text>
+<rect x="440.5" y="272.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="442.5" y="274.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="446.5" y="320.0" font-size="13" fill="#c0caf5" class="sym">n</text>
+<rect x="498.5" y="272.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="500.5" y="274.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="504.5" y="320.0" font-size="13" fill="#c0caf5" class="sym">m</text>
+<text x="546.5" y="320.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">µ</text>
+<rect x="556.5" y="272.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="558.5" y="274.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="562.5" y="320.0" font-size="13" fill="#c0caf5" class="sym">,</text>
+<text x="562.5" y="288.0" font-size="10" fill="#7aa2f7" class="sym">;</text>
+<text x="604.5" y="320.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">&lt;</text>
+<rect x="614.5" y="272.0" width="54.0" height="54" rx="6" fill="#2a2e47" stroke="#414868" stroke-width="1.5"/>
+<rect x="616.5" y="274.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="620.5" y="320.0" font-size="13" fill="#c0caf5" class="sym">.</text>
+<text x="620.5" y="288.0" font-size="10" fill="#7aa2f7" class="sym">:</text>
+<text x="662.5" y="320.0" text-anchor="end" font-size="10" fill="#9ece6a" class="sym">&gt;</text>
+<rect x="672.5" y="272.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="674.5" y="274.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="678.5" y="320.0" font-size="13" fill="#c0caf5" class="sym">/</text>
+<text x="678.5" y="288.0" font-size="10" fill="#7aa2f7" class="sym">?</text>
+<rect x="730.5" y="272.0" width="155.5" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="732.5" y="274.0" width="151.5" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="808.2" y="303.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">Shift</text>
+<rect x="948.0" y="272.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="950.0" y="274.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="975.0" y="303.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">↑</text>
+<rect x="20.0" y="330.0" width="83.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="22.0" y="332.0" width="79.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="61.5" y="361.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">Ctrl</text>
+<rect x="107.0" y="330.0" width="68.5" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="109.0" y="332.0" width="64.5" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="141.2" y="361.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">⊞</text>
+<rect x="179.5" y="330.0" width="68.5" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="181.5" y="332.0" width="64.5" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="213.8" y="361.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">Alt</text>
+<rect x="252.0" y="330.0" width="358.5" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="254.0" y="332.0" width="354.5" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="431.2" y="361.0" text-anchor="middle" font-size="10" fill="#565f89" class="label"></text>
+<rect x="614.5" y="330.0" width="68.5" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="616.5" y="332.0" width="64.5" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="648.8" y="361.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">AltGr</text>
+<rect x="687.0" y="330.0" width="68.5" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="689.0" y="332.0" width="64.5" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="721.2" y="361.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">⊞</text>
+<rect x="759.5" y="330.0" width="68.5" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="761.5" y="332.0" width="64.5" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="793.8" y="361.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">☰</text>
+<rect x="832.0" y="330.0" width="83.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="834.0" y="332.0" width="79.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="873.5" y="361.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">Ctrl</text>
+<rect x="890.0" y="330.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="892.0" y="332.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="917.0" y="361.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">←</text>
+<rect x="948.0" y="330.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="950.0" y="332.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="975.0" y="361.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">↓</text>
+<rect x="1006.0" y="330.0" width="54.0" height="54" rx="6" fill="#24283b" stroke="#414868" stroke-width="1.5"/>
+<rect x="1008.0" y="332.0" width="50.0" height="50" rx="4" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+<text x="1033.0" y="361.0" text-anchor="middle" font-size="10" fill="#565f89" class="label">→</text>
+<rect x="20" y="372" width="10" height="10" rx="2" fill="#c0caf5"/>
+<text x="34" y="382" font-size="10" fill="#565f89" class="label">Normal</text>
+<rect x="120" y="372" width="10" height="10" rx="2" fill="#7aa2f7"/>
+<text x="134" y="382" font-size="10" fill="#565f89" class="label">Shift</text>
+<rect x="220" y="372" width="10" height="10" rx="2" fill="#9ece6a"/>
+<text x="234" y="382" font-size="10" fill="#565f89" class="label">AltGr</text>
+<rect x="320" y="372" width="10" height="10" rx="2" fill="#e0af68"/>
+<text x="334" y="382" font-size="10" fill="#565f89" class="label">Shift+AltGr</text>
+</svg>
