@@ -3,7 +3,7 @@
 1. Add the contents of finerty.txt to the end of the file /usr/share/X11/xkb/symbols/fi
   If you wish to customize the layout (switch keys etc.), that can be done here
 
-2. In the finnish layout section of the file /usr/share/X11/xkb/rules/evdev.xml, paste the following:
+2. Find the finnish layout section of the file /usr/share/X11/xkb/rules/evdev.xml, which should look something like this: 
 ```
 <layout>
   <configItem>
@@ -20,7 +20,7 @@
   </configItem>
   <variantList>
 ```
-3. In the same file, add the following variant to the list of variants ( <variantList> ).
+3. In that section, add the following variant to the list of variants ( <variantList> ).
 ```
 <variant>
   <configItem>
@@ -29,7 +29,7 @@
   </configItem>
 </variant>
 ```
-4. Finally, add the following to the list of variants (after the '! variant') in the file /usr/share/X11/xkb/rules/evdev.lst
+4. Finally, add the following line to the list of variants (after the '! variant') in the file /usr/share/X11/xkb/rules/evdev.lst
 ```finerty          fi: Finerty (custom)```
 
 Now Finerty should show up as one of the keyboard variants for Finnish.
