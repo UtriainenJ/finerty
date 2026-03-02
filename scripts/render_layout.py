@@ -221,7 +221,7 @@ def render_svg(keys, output_path):
 
 
 if __name__ == "__main__":
-    symbols_path = sys.argv[1] if len(sys.argv) > 1 else "symbols/fi"
+    symbols_path = sys.argv[1] if len(sys.argv) > 1 else "linux/user-wide/symbols/fi"
     output_path  = sys.argv[2] if len(sys.argv) > 2 else "layout.svg"
     keys = parse_symbols(symbols_path)
     render_svg(keys, output_path)
